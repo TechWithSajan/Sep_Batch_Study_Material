@@ -1,3 +1,10 @@
+
+Jenkins is an open-source automation tool used for continuous integration and continuous delivery (CI/CD).
+It helps developers automatically build, test, and deploy applications.
+Jenkins works by running jobs whenever code changes are pushed to a repository.
+git push URl(Pushing the changes to central repo)
+
 It helps developers automatically build, test, and deploy applications.
 Jenkins works by running jobs whenever code changes are pushed to a repository.
 You cannot delete the branch you are currently on.
+
