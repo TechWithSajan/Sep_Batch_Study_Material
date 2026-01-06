@@ -1,0 +1,9 @@
+Go to github.com
+
+Open your repository
+
+Click the Pull requests tab (top menu)
+
+Click on the Pull Request you created
+
+Scroll down to the bottom of the Pull Request page
