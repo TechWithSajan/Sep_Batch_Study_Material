@@ -1,9 +1,4 @@
-Go to github.com
+Pushes branch D1 to the remote origin
+Does NOT set any upstream tracking
+Sets upstream (tracking) branch.
 
-Open your repository
-
-Click the Pull requests tab (top menu)
-
-Click on the Pull Request you create
-
-Required reviews not approved
