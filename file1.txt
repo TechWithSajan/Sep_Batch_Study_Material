@@ -1,4 +1,4 @@
-Go to github.com
+Go to gitlab & jenkins
 
 Open your repository
 
