@@ -4,6 +4,6 @@ Open your repository
 
 Click the Pull requests tab (top menu)
 
-Click on the Pull Request you created
+Click on the Pull Request you create
 
-Scroll down to the bottom of the Pull Request page
+Required reviews not approved
