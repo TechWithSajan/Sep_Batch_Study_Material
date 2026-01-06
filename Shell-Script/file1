@@ -1,1 +1,3 @@
-working as Devops engg.
+It helps developers automatically build, test, and deploy applications.
+Jenkins works by running jobs whenever code changes are pushed to a repository.
+It supports many plugins and tools, making it highly flexible and customizable.
